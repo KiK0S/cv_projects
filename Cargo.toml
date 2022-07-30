@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "a_01_sketch_filter"
+    "a_01_sketch_filter",
+    "a_02_shape_detector"
 ]
