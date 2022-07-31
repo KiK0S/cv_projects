@@ -1,0 +1,7 @@
+[package]
+name = "a_03_blob_detector"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+opencv = "0.66"
