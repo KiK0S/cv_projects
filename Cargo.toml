@@ -3,5 +3,6 @@
 members = [
     "a_01_sketch_filter",
     "a_02_shape_detector",
-    "a_03_blob_detector"
+    "a_03_blob_detector",
+    "a_04_find_waldo_template_search"
 ]
